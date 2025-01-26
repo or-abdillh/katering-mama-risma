@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+    --font-display: "Poppins", "sans-serif";
+    --font-content: "Roboto", "sans-serif";
+}
